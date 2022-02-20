@@ -40,6 +40,8 @@ Now considering room scenario, an Arduino UNO will control devices and reads sen
 
 ## BLOCK DIAGRAM ##
 
+![](https://github.com/KeerthuMG/M2-EmbSys/blob/main/CaseStudy/Complex.jpg)
+
 ![]()
 
 
