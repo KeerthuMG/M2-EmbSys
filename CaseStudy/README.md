@@ -8,7 +8,7 @@ Our proposed system serves as a solution to this problem, it keeps tracking the 
 
 ## BLOCK DIAGRAM ##
 
-![]()
+![](https://github.com/KeerthuMG/M2-EmbSys/blob/main/CaseStudy/Simple.jpg)
 
 
 ## COMPONENTS ##
