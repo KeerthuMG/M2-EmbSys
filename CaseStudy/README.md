@@ -11,6 +11,8 @@ Our proposed system serves as a solution to this problem, it keeps tracking the 
 
 ![](https://github.com/KeerthuMG/M2-EmbSys/blob/main/CaseStudy/Simple.jpg)
 
+![](https://github.com/KeerthuMG/M2-EmbSys/blob/main/CaseStudy/Complex%202.jpg)
+
 
 ## COMPONENTS ##
 
