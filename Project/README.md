@@ -8,9 +8,9 @@ Home automation is called as Smart Home. A home automation system will monitor a
 
 ## BLOCK DIAGRAM ##
 
-![]()
+![](https://github.com/KeerthuMG/M2-EmbSys/blob/main/Project/Picture%201.jpg)
 
-![]()
+![](https://github.com/KeerthuMG/M2-EmbSys/blob/main/Project/Picture%202.jpg)
 
 
 ## REQUIREMENTS ##
