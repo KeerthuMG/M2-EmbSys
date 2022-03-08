@@ -5,8 +5,9 @@
 Home automation is the ability to do tasks automatically and monitor remotely. Tasks include like tuning off lights when nobody is present in the room, locking door, door opening automatically, monitoring temperature and etc. So, like this many tasks are done by home automation system. The main thing is that it gives a proper security. It saves time. It helps in avoiding wastage of electricity.
 
 ## FEATURES:
-1.	It automatically switches ON the light when someone is present in that particular place and switch OFF the light when no one is there in that place by using sensors.
-
+1.	It shall switche ON the light when someone is present in that particular place and switch OFF the light when no one is there in that place by using sensors.
+2.	It shall switche ON the fan when someone is present in that particular place and switch OFF the fan when no one is there in that place by using sensors.
+3. It shall indicate a signal when the temperature is not in normal level.
 
 ## 5W’s & 1H
 
