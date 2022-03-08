@@ -52,13 +52,19 @@ Home automation is the ability to do tasks automatically and monitor remotely. T
 
 3.1 Block Diagram
 
+![](https://github.com/KeerthuMG/M2-EmbSys/blob/main/Project/6_ImagesAndVideos/CD.jpg)
+
 3.2 Components Description
 
 ## 4. Architecture
 
 4.1 Behaviour Diagram
 
+![](https://github.com/KeerthuMG/M2-EmbSys/blob/main/Project/2_Architecture/Behavior%20Diagram.jpg)
+
 4.2 Structural Diagram
+
+![](https://github.com/KeerthuMG/M2-EmbSys/blob/main/Project/2_Architecture/Structural%20Diagram.jpg)
 
 ## 5. Test Plan and Output
 
