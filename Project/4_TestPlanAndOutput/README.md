@@ -14,3 +14,8 @@
 
 | HLTP | LLTP | Description | Input | Expected Output | Actual Output | Pass/Fail |
 |------|------|-------------|-------|-----------------|---------------|-----------|
+| HLTP1 | LLTP1 | Light | 200Lux(User) 0Lux(LDR) | LED should glow | LED should glow | ✅  |
+| HLTP2 | LLTP2 | Fan | When temperature is between 35°C - 50°C | Fan should be on | Fan should be on |  ✅ |
+| HLTP3 | LLTP3 | LED | When temperature is between 1°C - 10°C | LED should glow for indication |  LED should glow for indication | ✅ |
+| HLTP4 | LLTP4 | Temperature | 1°C - 10°C | LED should glow for indication | LED should glow for indication | ✅ |
+| HLTP4 | LLTP4 | Temperature | 35°C - 50°C | Fan should be on | Fan should be on | ✅ |
