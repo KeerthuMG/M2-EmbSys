@@ -28,7 +28,7 @@ Home automation is the ability to do tasks automatically and monitor remotely. T
 
 ## 2. Requirements
 
-2.1 High Level Requirement
+### 2.1 High Level Requirement
 
 | ID | Description |
 |----|------------|
@@ -38,7 +38,7 @@ Home automation is the ability to do tasks automatically and monitor remotely. T
 |HLR4 | User will be able to experience indication signal |
 |HLR5 | User will be able to monitor everything using a display |
 
-2.2 Low Level Requirement
+### 2.2 Low Level Requirement
 
 | HLR | LLR | Description |
 |-----|-----|-------------|
@@ -50,25 +50,42 @@ Home automation is the ability to do tasks automatically and monitor remotely. T
 
 ## 3. Block Diagram and Components Explanation
 
-3.1 Block Diagram
+### 3.1 Block Diagram
 
 ![](https://github.com/KeerthuMG/M2-EmbSys/blob/main/Project/6_ImagesAndVideos/CD.jpg)
 
-3.2 Components Description
+### 3.2 Components Description
+
+Sensors:
+
+IR Sensor: It is responsible for switching on and off of light.
+
+Temperature Sensor: It is responsible to monitor the temperature and warn when it is not normal.
+
+Potentiometer: Basically used to take input of temperature.
+
+Actuators:
+
+Fan: It's switching is depended on temperature rise.
+
+Light: The lightening of the room is monitored by the lights .
+
+Display: It displays the temperature and light status.
+
 
 ## 4. Architecture
 
-4.1 Behaviour Diagram
+### 4.1 Behaviour Diagram
 
 ![](https://github.com/KeerthuMG/M2-EmbSys/blob/main/Project/2_Architecture/Behavior%20Diagram.jpg)
 
-4.2 Structural Diagram
+### 4.2 Structural Diagram
 
 ![](https://github.com/KeerthuMG/M2-EmbSys/blob/main/Project/2_Architecture/Structural%20Diagram.jpg)
 
 ## 5. Test Plan and Output
 
-5.1 Hight Level Test Plan
+### 5.1 Hight Level Test Plan
 
 | Test ID | Description | Expected Output | Actual Output | Pass/Fail |
 |---------|-------------|-----------------|---------------|-----------|
@@ -77,7 +94,7 @@ Home automation is the ability to do tasks automatically and monitor remotely. T
 | HLTP3 | LED | Should indicate when temperature is low | Should indicate when temperature is low | ✅ |
 | HLTP4 | Temperature | When it is high fan will run and when it is low warning LED will glow |  When it is high fan will run and when it is low warning LED will glow | ✅ |
 
-5.2 Low Level Test Plan
+### 5.2 Low Level Test Plan
 
 | HLTP | LLTP | Description | Input | Expected Output | Actual Output | Pass/Fail |
 |------|------|-------------|-------|-----------------|---------------|-----------|
@@ -87,11 +104,12 @@ Home automation is the ability to do tasks automatically and monitor remotely. T
 | HLTP4 | LLTP4 | Temperature | 1°C - 10°C | LED should glow for indication | LED should glow for indication | ✅ |
 | HLTP4 | LLTP4 | Temperature | 35°C - 50°C | Fan should be on | Fan should be on | ✅ |
 
-## 6. Output
-
 ## 7. Applications
 
-## 8. Conclusion
+It can be used in educational institutions.
+It can be used in offices.
+It can be used in working places.
+It can be used in all places.
 
 
 
