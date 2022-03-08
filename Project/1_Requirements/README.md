@@ -10,7 +10,7 @@ Home automation is the ability to do tasks automatically and monitor remotely. T
 
 ## 5W’s & 1H
 
-![]()
+![](https://github.com/KeerthuMG/M2-EmbSys/blob/main/Project/6_ImagesAndVideos/5W%261H.jpg)
 
 
 ## SWOT ANALYIS:
