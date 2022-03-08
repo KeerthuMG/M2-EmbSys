@@ -24,15 +24,20 @@ Home automation is the ability to do tasks automatically and monitor remotely. T
 |----|------------|
 |HLR1 | User will be experiencing automatic turn on and off of lights |
 |HLR2 | User will be experiencing automatic turn on and off of fan |
-|HLR3 | User will be able to experience change in temperature |
+|HLR3 | User will be able to experience the indication of increase or decrease in temperature |
+|HLR4 | User will be able to experience indication signal |
+|HLR5 | User will be able to monitor everything using a display |
 
 ## LOW LEVEL REQUIREMENT ##
 
 | HLR | LLR | Description |
 |-----|-----|-------------|
-|HLR1 | LLR1 | Usage of Relay and PIR Sensor |
-|HLR2 | LLR2 | Usage of Relay |
-|HLR6 | LLR6 | Usage Temperature Sensor(LM35) |
+|HLR1 | LLR1 | Usage of IR Sensor |
+|HLR2 | LLR2 | By monitoring the temperature the fan will be switched on automatically |
+|HLR3 | LLR3 | By the increase and decrease of temperature the LED will glow |
+|HLR4 | LLR4 | LED will glow when there is decrease in temperature and when the light is on |
+|HLR5 | LLR5 | LED display will display the light status and temperature status |
+
 
  
 
