@@ -15,9 +15,9 @@ Home automation is the ability to do tasks automatically and monitor remotely. T
 
 ## SWOT ANALYIS:
 
-![]()
+![](https://github.com/KeerthuMG/M2-EmbSys/blob/main/Project/6_ImagesAndVideos/SWOT.jpg)
 
-## Higher Level Requirement ##
+## HIGHER LEVEL REQUIREMENT ##
 
 | ID | Description |
 |----|------------|
@@ -25,7 +25,7 @@ Home automation is the ability to do tasks automatically and monitor remotely. T
 |HLR2 | User will be experiencing automatic turn on and off of fan |
 |HLR3 | User will be able to experience change in temperature |
 
-## Low Level Requirement ##
+## LOW LEVEL REQUIREMENT ##
 
 | HLR | LLR | Description |
 |-----|-----|-------------|
